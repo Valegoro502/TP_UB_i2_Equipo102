@@ -1,0 +1,15 @@
+Gamma:
+
+A)
+
+B)
+
+Beta: 
+
+C) Si, tiene que agregar la repo de Alfa el remote y con un fetch debería de estar actualizado a la repo de Alfa, ósea que Gamma podría tener el estado de Alfa.
+
+D) Depende, pueden llegar a entrar en conflicto o sobrescribirse. Para evitar esto hay que usar el comando merge para intentar combinar.
+
+Alfa:
+
+E)
